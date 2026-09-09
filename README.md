@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hushan-08/leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Hushan-08/leetcode-Problems/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hushan-08/leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hushan-08/leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Hushan-08/leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Hushan-08/leetcode-Problems/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
