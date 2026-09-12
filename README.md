@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Hushan-08/leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hushan-08/leetcode-Problems/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Hushan-08/leetcode-Problems/tree/master/0278-first-bad-version) |
 ## Newton's Method
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Hushan-08/leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
