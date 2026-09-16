@@ -1,46 +1,28 @@
 class Solution {
 public:
+
+    int value(char c) {
+        if(c == 'I') return 1;
+        if(c == 'V') return 5;
+        if(c == 'X') return 10;
+        if(c == 'L') return 50;
+        if(c == 'C') return 100;
+        if(c == 'D') return 500;
+        return 1000;
+    }
+
     int romanToInt(string s) {
-            int n = 1;
-    vector<int> v;
-        for(int i = 0; i < s.size() ; i++){
-            if(s[i] == 'I'){
-                v.push_back(1);
-            }
-
-            else if(s[i] == 'V'){
-                v.push_back(5);
-            }
-            
-            else if(s[i] == 'X'){
-                v.push_back(10);
-            }
-            else if(s[i] == 'L'){
-                v.push_back(50);
-            }
-            else if(s[i] == 'C'){
-                v.push_back(100);
-            }
-            else if(s[i] == 'D'){
-                v.push_back(500);
-            }
-
-            else 
-            v.push_back(1000);
-
-        }
-
         int number = 0;
-        for(int i = 0; i < v.size() ; i++){
-            if(i + 1 < v.size() && v[i + 1] > v[i]){
-                int x;
-                x = v[i+1]-v[i];
-                number += x;
-                   i++;
-            }
 
-            else
-            number += v[i];
+        for(int i = 0; i < s.size(); i++) {
+            
+            if(i + 1 < s.size() && value(s[i]) < value(s[i + 1])) {
+                number += value(s[i + 1]) - value(s[i]);
+                i++;
+            }
+            else {
+                number += value(s[i]);
+            }
         }
 
         return number;
