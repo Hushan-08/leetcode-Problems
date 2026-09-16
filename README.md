@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Hushan-08/leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hushan-08/leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Hushan-08/leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Hushan-08/leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Hushan-08/leetcode-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Hushan-08/leetcode-Problems/tree/master/0231-power-of-two) |
@@ -43,9 +44,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hushan-08/leetcode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Hushan-08/leetcode-Problems/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hushan-08/leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hushan-08/leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
