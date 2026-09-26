@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hushan-08/leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Hushan-08/leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Hushan-08/leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hushan-08/leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Hushan-08/leetcode-Problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Hushan-08/leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Hushan-08/leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Hushan-08/leetcode-Problems/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hushan-08/leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Hushan-08/leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Hushan-08/leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hushan-08/leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hushan-08/leetcode-Problems/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Hushan-08/leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Hushan-08/leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Hushan-08/leetcode-Problems/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hushan-08/leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Hushan-08/leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Interactive
 |  |
 | ------- |
